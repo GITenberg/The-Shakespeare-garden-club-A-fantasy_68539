@@ -1,11 +1,16 @@
 _repo: The-Shakespeare-garden-club-A-fantasy_68539
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68539-h/images/cover.jpg
 creator:
   author:
     agent_name: Moran, Mabel M.
     gutenberg_agent_id: '54818'
     url: http://www.gutenberg.org/2009/agents/54818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68539#The-Shakespeare-garden-club-A-fantasy
 gutenberg_issued: '2022-07-17'
 identifiers:
   gutenberg: '68539'
